@@ -13,6 +13,7 @@ cd /usr/local/taskr
 # Install Requirements
 # Requires pip
 # INSTALL Python DEV tools python-dev
+# sudo apt-get install python-dev libxml2-dev libxslt-dev
 # INSTALL Python PIP python-pip
 
 pip install -r requirements.txt
